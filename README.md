@@ -1,4 +1,4 @@
-# Typeface Fetcher
+# Typeface Fetcher (Native Host)
 
 A powerful Chrome extension to download fonts from Adobe Fonts with optional Python integration for system-installable fonts. Features a beautiful Material Design 3 interface for easy font management.
 
@@ -12,7 +12,7 @@ A powerful Chrome extension to download fonts from Adobe Fonts with optional Pyt
 1. **Install Extension** - Load unpacked in Chrome Developer Mode
 2. **Visit Adobe Fonts** - Go to fonts.adobe.com
 3. **Download** - Click extension icon and download fonts
-4. **Optional: Python Integration** - Install [Native Host](https://github.com/jsildura/AdobeFontsNativeHost) for system-installable fonts
+4. **Optional: Python Integration** - Install [Native Host](https://github.com/jsildura/Typeface-Fetcher/releases/download/v1.0.0/TypefaceFetcherNativeHost-Setup.exe) for system-installable fonts
 
 ## Screenshots
 
